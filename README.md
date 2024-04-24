@@ -1,62 +1,52 @@
 # ABB - TheCrypticWebsite
 
-Simple overview of use/purpose.
+En CTF uppgift för skolan. Deltagarna ska hitta och knäcka ett python-script för att få flaggan.
 
-## Description
+## Beskrivning
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+<details>
+  <summary></summary>
+  TheCrypticWebsite är en CTF uppgift för skolan. Deltagarna ska hitta och knäcka ett python-script för att få flaggan. Scriptet är skrivet i python och är krypterat med hjälp av en hemlig nyckel. Deltagarna ska hitta nyckeln och dekryptera scriptet för att få flaggan.
+</details>
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- Python
+- Webläsare
 
-### Installing
+## Hjälp / Hints
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+<details>
+<summary>Ledtråd 1</summary>
+  Var nogrann med att inspektera webbsidan...
+<details>
+<summary>Ledtråd 2</summary>
+  Använd 'Inspect Element' och studera lågt. Kanske finns det något gömt?
+<details>
+<summary>Ledtråd 3</summary>
+  En av de mest använda metoderna för att dölja text i css är 'display: none' eller 'opacity: 0'. Kan du hitta något som är dolt?
+<details>
+<summary>Ledtråd 4</summary>
+  Kika på hemsidans css under klassen 'banana-secret'. Kan du lista ut hur man gör det synligt?
+<details>
+<summary>Ledtråd 5</summary>
+  Python scriptet är krypterat med en hemlig nyckel. Kan du hitta nyckeln? Hemsidan kan vara till hjälp...
+<details>
+<summary>Ledtråd 6</summary>
+  Python scriptets hemliga nyckel är 'banana'
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Om du fortfarande inte kan lösa uppgiften med ledtrådarna. Se branchen 'Solution'.
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+- 0.2
+  - Förtydligade ledtrådar
+  - See [commit change]() or See [release history]()
+- 0.1
+  - Första verisonen
