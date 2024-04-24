@@ -41,9 +41,7 @@ Python scriptets hemliga nyckel är 'banana'
 
 1. Inspektera hemsidan och hitta den gömda scriptet.
 2. Använd nyckeln 'banana' för att dekryptera python scriptet.
-3. Flagga: '210s{Ban4naIsTheB3stFruit}'
-
-OBS! Flaggan i lösningarna speglar inte den riktiga flaggan. Den riktiga flaggan är som ovan.
+3. Flagga: '210s{cr1515_pull_6a476c8f}'
 
 ## Version History
 
