@@ -4,10 +4,7 @@ En CTF uppgift för skolan. Deltagarna ska hitta och knäcka ett python-script f
 
 ## Beskrivning
 
-<details>
-  <summary></summary>
-  TheCrypticWebsite är en CTF uppgift för skolan. Deltagarna ska hitta och knäcka ett python-script för att få flaggan. Scriptet är skrivet i python och är krypterat med hjälp av en hemlig nyckel. Deltagarna ska hitta nyckeln och dekryptera scriptet för att få flaggan.
-</details>
+TheCrypticWebsite är en CTF uppgift för skolan. Deltagarna ska hitta och knäcka ett python-script för att få flaggan. Scriptet är skrivet i python och är krypterat med hjälp av en hemlig nyckel. Deltagarna ska hitta nyckeln och dekryptera scriptet för att få flaggan.
 
 ### Dependencies
 
@@ -16,32 +13,37 @@ En CTF uppgift för skolan. Deltagarna ska hitta och knäcka ett python-script f
 
 ## Hjälp / Hints
 
-<details>
-<summary>Ledtråd 1</summary>
-  Var nogrann med att inspektera webbsidan...
-<details>
-<summary>Ledtråd 2</summary>
-  Använd 'Inspect Element' och studera lågt. Kanske finns det något gömt?
-<details>
-<summary>Ledtråd 3</summary>
-  En av de mest använda metoderna för att dölja text i css är 'display: none' eller 'opacity: 0'. Kan du hitta något som är dolt?
-<details>
-<summary>Ledtråd 4</summary>
-  Kika på hemsidans css under klassen 'banana-secret'. Kan du lista ut hur man gör det synligt?
-<details>
-<summary>Ledtråd 5</summary>
-  Python scriptet är krypterat med en hemlig nyckel. Kan du hitta nyckeln? Hemsidan kan vara till hjälp...
-<details>
-<summary>Ledtråd 6</summary>
-  Python scriptets hemliga nyckel är 'banana'
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
+# Ledtråd 1
 
-Om du fortfarande inte kan lösa uppgiften med ledtrådarna. Se branchen 'Solution'.
+Var nogrann med att inspektera webbsidan...
+
+# Ledtråd 2
+
+Använd 'Inspect Element' och studera lågt. Kanske finns det något gömt?
+
+# Ledtråd 3
+
+En av de mest använda metoderna för att dölja text i css är 'display: none' eller 'opacity: 0'. Kan du hitta något som är dolt?
+
+# Ledtråd 4
+
+Kika på hemsidans css under klassen 'banana-secret'. Kan du lista ut hur man gör det synligt?
+
+# Ledtråd 5
+
+Python scriptet är krypterat med en hemlig nyckel. Kan du hitta nyckeln? Hemsidan kan vara till hjälp...
+
+# Ledtråd 6
+
+Python scriptets hemliga nyckel är 'banana'
+
+# Lösning:
+
+1. Inspektera hemsidan och hitta den gömda scriptet.
+2. Använd nyckeln 'banana' för att dekryptera python scriptet.
+3. Flagga: '210s{Ban4naIsTheB3stFruit}'
+
+OBS! Flaggan i lösningarna speglar inte den riktiga flaggan. Den riktiga flaggan är som ovan.
 
 ## Version History
 
