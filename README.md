@@ -13,31 +13,31 @@ TheCrypticWebsite är en CTF uppgift för skolan. Deltagarna ska hitta och knäc
 
 ## Hjälp / Hints
 
-# Ledtråd 1
+### Ledtråd 1
 
 Var nogrann med att inspektera webbsidan...
 
-# Ledtråd 2
+### Ledtråd 2
 
 Använd 'Inspect Element' och studera lågt. Kanske finns det något gömt?
 
-# Ledtråd 3
+### Ledtråd 3
 
 En av de mest använda metoderna för att dölja text i css är 'display: none' eller 'opacity: 0'. Kan du hitta något som är dolt?
 
-# Ledtråd 4
+### Ledtråd 4
 
 Kika på hemsidans css under klassen 'banana-secret'. Kan du lista ut hur man gör det synligt?
 
-# Ledtråd 5
+### Ledtråd 5
 
 Python scriptet är krypterat med en hemlig nyckel. Kan du hitta nyckeln? Hemsidan kan vara till hjälp...
 
-# Ledtråd 6
+### Ledtråd 6
 
 Python scriptets hemliga nyckel är 'banana'
 
-# Lösning:
+### Lösning:
 
 1. Inspektera hemsidan och hitta den gömda scriptet.
 2. Använd nyckeln 'banana' för att dekryptera python scriptet.
