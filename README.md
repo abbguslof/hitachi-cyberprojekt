@@ -7,7 +7,7 @@ Länk till hemsidan: [TheCrypticWebsite](https://gustavs-ctf.webflow.io)
 ### Dependencies
 
 - Python
-- Webläsare
+- Webbläsare
 
 ## Hjälp / Hints
 
@@ -41,3 +41,4 @@ Länk till hemsidan: [TheCrypticWebsite](https://gustavs-ctf.webflow.io)
 </details>
 
 Om du fortfarande inte kan lösa uppgiften med ledtrådarna. Se branchen 'Solution'.
+OBS! Det är fusk att fuska.
