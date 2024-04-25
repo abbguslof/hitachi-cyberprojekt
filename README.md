@@ -25,17 +25,21 @@ Använd 'Inspect Element' och studera lågt. Kanske finns det något gömt?
 
 ### Ledtråd 3
 
-En av de mest använda metoderna för att dölja text i css är 'display: none' eller 'opacity: 0'. Kan du hitta något som är dolt?
+En av de mest använda css-metoderna för att göra saker genomskinligt är 'opacity: 0'. Kan du hitta något som är dolt?
 
 ### Ledtråd 4
 
-Kika på hemsidans css under klassen 'banana-secret'. Kan du lista ut hur man gör det synligt?
+Kika på hemsidans css under klassen 'banana-secret'. Se något tokigt ut?
 
 ### Ledtråd 5
 
-Python scriptet är krypterat med en hemlig nyckel. Kan du hitta nyckeln? Hemsidan kan vara till hjälp...
+Du sköker ett hemligt Python-script. Det gömmer sig på hemsidans nedre del. 
 
 ### Ledtråd 6
+
+Python scriptet är krypterat med en hemlig nyckel. Kan du hitta nyckeln? Hemsidan kan vara till hjälp...
+
+### Ledtråd 7
 
 Python scriptets hemliga nyckel är 'banana'
 
