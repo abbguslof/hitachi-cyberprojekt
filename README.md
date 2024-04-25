@@ -11,7 +11,7 @@ TheCrypticWebsite är en CTF uppgift för skolan. Deltagarna ska hitta och knäc
 ### Dependencies
 
 - Python
-- Webläsare
+- Webbläsare
 
 ## Hjälp / Hints
 
