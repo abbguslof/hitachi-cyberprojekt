@@ -4,13 +4,6 @@ En CTF uppgift för skolan. Deltagarna ska hitta och knäcka ett python-script f
 
 Länk till hemsidan: [TheCrypticWebsite](https://gustavs-ctf.webflow.io)
 
-## Beskrivning
-
-<details>
-  <summary></summary>
-  TheCrypticWebsite är en CTF uppgift för skolan. Deltagarna ska hitta och knäcka ett python-script för att få flaggan. Scriptet är skrivet i python och är krypterat med hjälp av en hemlig nyckel. Deltagarna ska hitta nyckeln och dekryptera scriptet för att få flaggan.
-</details>
-
 ### Dependencies
 
 - Python
@@ -44,11 +37,3 @@ Länk till hemsidan: [TheCrypticWebsite](https://gustavs-ctf.webflow.io)
 </details>
 
 Om du fortfarande inte kan lösa uppgiften med ledtrådarna. Se branchen 'Solution'.
-
-## Version History
-
-- 0.2
-  - Förtydligade ledtrådar
-  - See [commit change]() or See [release history]()
-- 0.1
-  - Första verisonen
