@@ -1,4 +1,4 @@
-# ABB - TheCrypticWebsite
+# Hitachi - TheCrypticWebsite
 
 En CTF uppgift för skolan. Deltagarna ska hitta och knäcka ett python-script för att få flaggan.
 
