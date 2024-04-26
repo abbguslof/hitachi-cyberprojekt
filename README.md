@@ -1,4 +1,4 @@
-# ABB - TheCrypticWebsite
+# Hitachi - TheCrypticWebsite
 
 Gustavs CTF uppgift till skolan. Deltagarna ska hitta en flagga '210s{}'.
 
